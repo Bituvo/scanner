@@ -78,3 +78,8 @@ This will clear any data from a written book and replace it with an empty one.
 ```
 
 This will eject the book out of the left side. Note that the scanner will accept items from both the left and right.
+
+## License
+
+- Code is licensed under **GNU Lesser General Public License v3.0 (LGPL-3.0)**. See `LICENSE.txt`.
+- "book_silhouette.png" is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA-4.0)**. See `ASSETS_LICENSE.txt`.
